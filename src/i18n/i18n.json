@@ -1,0 +1,32 @@
+[
+  {
+    "id": "actions.edit",
+    "defaultMessage": "Edit",
+    "filepath": "src/i18n/messages/actions/index.js"
+  },
+  {
+    "id": "actions.export",
+    "defaultMessage": "Export",
+    "filepath": "src/i18n/messages/actions/index.js"
+  },
+  {
+    "id": "actions.remove",
+    "defaultMessage": "Remove",
+    "filepath": "src/i18n/messages/actions/index.js"
+  },
+  {
+    "id": "generic.brand",
+    "defaultMessage": "Sellics",
+    "filepath": "src/i18n/messages/generic/index.js"
+  },
+  {
+    "id": "generic.overview",
+    "defaultMessage": "Overview",
+    "filepath": "src/i18n/messages/generic/index.js"
+  },
+  {
+    "id": "generic.settings",
+    "defaultMessage": "Settings",
+    "filepath": "src/i18n/messages/generic/index.js"
+  }
+]
